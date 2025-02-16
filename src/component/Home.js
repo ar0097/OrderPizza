@@ -1,5 +1,5 @@
 import Navbar from "./Navbar";
-import Products from "./Products";
+import Products from "./Product";
 import "../styles.css";
 const Home = () => {
   return (

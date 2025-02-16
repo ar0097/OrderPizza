@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import Products from "./Products";
+import Products from "./Product";
 import "../styles.css";
 
 const MenuLight = () => {
